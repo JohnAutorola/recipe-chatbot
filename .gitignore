@@ -180,3 +180,11 @@ results/*
 # vs code folder
 
 .vscode/
+.claude/settings.local.json
+backend/prompts.py
+backend/utils.py
+homeworks/hw2/synthetic_queries_for_analysis_20250524_170140.csv
+query_review_tool/query_processor.py
+query_review_tool/query_reviewer.py
+query_review_tool/README.md
+query_review_tool/response_coder.py
