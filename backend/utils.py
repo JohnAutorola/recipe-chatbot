@@ -11,6 +11,7 @@ from typing import Dict, Final, List
 
 import litellm  # type: ignore
 from dotenv import load_dotenv
+
 from backend.prompts import SYSTEM_PROMPT
 
 # Ensure the .env file is loaded as early as possible.
